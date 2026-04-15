@@ -4,10 +4,9 @@ settings = Dynaconf(
     envvar_prefix="DYNACONF",
     settings_files=[
         "config/settings.toml",
-        "config/data_handler_class_api.toml",
-        "config/flight_data_handler_class.toml",
-        "config/flight_search_handler_class.toml",
-        "config/notifications_handler_class.toml",
+        "config/sheety.toml",
+        "config/twillio.toml",
+        "config/serp.toml",
         "config/.secrets.toml"
     ],
     environments=True,
