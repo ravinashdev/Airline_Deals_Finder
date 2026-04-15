@@ -191,3 +191,5 @@ scratches/
 
 #DS Store
 .DS_Store
+# Ignore dynaconf secret files
+config/.secrets.toml
