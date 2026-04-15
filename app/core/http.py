@@ -6,7 +6,7 @@ class HTTPClient:
             timeout=30.0,
             limits=httpx.Limits(max_connections=100)
         )
-    # Method for GET passing in **kwargs for params, payload and headers
+    # Method for GET passing in **kwargs for params, payload and headers since they differ by request type
     async def get(self, url, **kwargs):
         return await self.client.get(url, **kwargs)
     # Method for POST passing in **kwargs for params, payload and headers
