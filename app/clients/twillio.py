@@ -10,9 +10,12 @@ class Twillio:
         self.from_="+18559411028"
         self.client = Client(self.sid, self.key)
     def send_text(self, body, to):
-        text = self.client.messages.create(
-            body=body,
-            from_=self.from_,
-            to=to
-        )
-        return text.body
+        try:
+            text = self.client.messages.create(
+                body=body,
+                from_=self.from_,
+                to=to
+            )
+            return text.body
+        except Exception as e:
+            print(e)
