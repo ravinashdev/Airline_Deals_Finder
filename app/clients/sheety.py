@@ -3,6 +3,7 @@ class SheetyClient:
         self.http = http
         self.base_url = settings.sheety.base_url
         self.api_key = settings.SHEETY_BEARER_TOKEN
+    # Name methods based on what it does in API
     async def get_rows(self):
         get_rows_reponse = await self.http.get(
             self.base_url,
