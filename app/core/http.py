@@ -7,7 +7,7 @@ class HTTPClient:
             limits=httpx.Limits(max_connections=100)
         )
 
-    ** kwargs are prefered in case the method in not GET, POST, PUT, DELETE, example
+    # ** kwargs are preferred in case the method in not GET, POST, PUT, DELETE, example
     # Method for GET passing in **kwargs for params, payload and headers
     async def get(self, url, **kwargs):
         return await self.client.get(url, **kwargs)
