@@ -1,0 +1,1495 @@
+{
+  "search_metadata": {
+    "id": "69e04ddbecf5ed395242250e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qW9xHYIZDSAUbGKXhE2iGg/69e04ddbecf5ed395242250e.json",
+    "created_at": "2026-04-16 02:47:55 UTC",
+    "processed_at": "2026-04-16 02:47:55 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI2LTEwLTE1KAFqBwgBEgNKRktyBwgBEgNCS0saIBIKMjAyNi0xMS0xMigBagcIARIDQktLcgcIARIDSkZLQAFIAXABmAEB&tfu=EgIIAQ",
+    "raw_html_file": "https://serpapi.com/searches/qW9xHYIZDSAUbGKXhE2iGg/69e04ddbecf5ed395242250e.html",
+    "prettify_html_file": "https://serpapi.com/searches/qW9xHYIZDSAUbGKXhE2iGg/69e04ddbecf5ed395242250e.prettify",
+    "total_time_taken": 10.57
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "us",
+    "type": "1",
+    "departure_id": "JFK",
+    "arrival_id": "BKK",
+    "outbound_date": "2026-10-15",
+    "return_date": "2026-11-12",
+    "stops": 2,
+    "currency": "USD"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 13:10"
+          },
+          "arrival_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2026-10-16 17:50"
+          },
+          "duration": 940,
+          "airplane": "Airbus A380",
+          "airline": "Korean Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+          "travel_class": "Economy",
+          "flight_number": "KE 82",
+          "ticket_also_sold_by": [
+            "Delta"
+          ],
+          "legroom": "33 in",
+          "extensions": [
+            "Above average legroom (33 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 927 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2026-10-16 19:45"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 23:35"
+          },
+          "duration": 350,
+          "airplane": "Airbus A330",
+          "airline": "Korean Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+          "travel_class": "Economy",
+          "flight_number": "KE 659",
+          "ticket_also_sold_by": [
+            "Delta"
+          ],
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 293 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 115,
+          "name": "Incheon International Airport",
+          "id": "ICN"
+        }
+      ],
+      "total_duration": 1405,
+      "carbon_emissions": {
+        "this_flight": 1221000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": 6
+      },
+      "price": 1116,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ3BMUlRneWZFdEZOalU1R2dzSTFlY0dFQUlhQTFWVFJEZ2NjTlhuQmc9PSIsW1siSkZLIiwiMjAyNi0xMC0xNSIsIklDTiIsbnVsbCwiS0UiLCI4MiJdLFsiSUNOIiwiMjAyNi0xMC0xNiIsIkJLSyIsbnVsbCwiS0UiLCI2NTkiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 01:30"
+          },
+          "arrival_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2026-10-16 06:05"
+          },
+          "duration": 935,
+          "airplane": "Airbus A380",
+          "airline": "Asiana Airlines",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+          "travel_class": "Economy",
+          "flight_number": "OZ 223",
+          "legroom": "33 in",
+          "extensions": [
+            "Above average legroom (33 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 1007 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2026-10-16 07:05"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 10:40"
+          },
+          "duration": 335,
+          "airplane": "Airbus A321neo",
+          "airline": "Asiana Airlines",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+          "travel_class": "Economy",
+          "flight_number": "OZ 743",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 302 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 60,
+          "name": "Incheon International Airport",
+          "id": "ICN"
+        }
+      ],
+      "total_duration": 1330,
+      "carbon_emissions": {
+        "this_flight": 1310000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": 14
+      },
+      "price": 1131,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ3RQV2pJeU0zeFBXamMwTXhvTENMSHpCaEFDR2dOVlUwUTRISEN4OHdZPSIsW1siSkZLIiwiMjAyNi0xMC0xNSIsIklDTiIsbnVsbCwiT1oiLCIyMjMiXSxbIklDTiIsIjIwMjYtMTAtMTYiLCJCS0siLG51bGwsIk9aIiwiNzQzIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 10:00"
+          },
+          "arrival_airport": {
+            "name": "Hong Kong International Airport",
+            "id": "HKG",
+            "time": "2026-10-16 13:55"
+          },
+          "duration": 955,
+          "airplane": "Airbus A350",
+          "airline": "Cathay Pacific",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+          "travel_class": "Economy",
+          "flight_number": "CX 841",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 874 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hong Kong International Airport",
+            "id": "HKG",
+            "time": "2026-10-16 16:05"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 18:00"
+          },
+          "duration": 175,
+          "airplane": "Boeing 777",
+          "airline": "Cathay Pacific",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+          "travel_class": "Economy",
+          "flight_number": "CX 701",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 120 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 130,
+          "name": "Hong Kong International Airport",
+          "id": "HKG"
+        }
+      ],
+      "total_duration": 1260,
+      "carbon_emissions": {
+        "this_flight": 996000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": -13
+      },
+      "price": 1206,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZzFEV0RnME1YeERXRGN3TVNNeEdnc0k4NjBIRUFJYUExVlRSRGdjY1BPdEJ3PT0iLFtbIkpGSyIsIjIwMjYtMTAtMTUiLCJIS0ciLG51bGwsIkNYIiwiODQxIl0sWyJIS0ciLCIyMDI2LTEwLTE2IiwiQktLIixudWxsLCJDWCIsIjcwMSJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 01:20"
+          },
+          "arrival_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-10-15 20:40"
+          },
+          "duration": 740,
+          "airplane": "Airbus A350",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 706",
+          "ticket_also_sold_by": [
+            "American"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 654 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-10-16 02:00"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 12:55"
+          },
+          "duration": 415,
+          "airplane": "Boeing 777",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 834",
+          "ticket_also_sold_by": [
+            "American"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 397 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 320,
+          "name": "Hamad International Airport",
+          "id": "DOH"
+        }
+      ],
+      "total_duration": 1475,
+      "carbon_emissions": {
+        "this_flight": 1052000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": -9
+      },
+      "price": 945,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ3RSVWpjd05ueFJVamd6TkJvTENNM2hCUkFDR2dOVlUwUTRISERONFFVPSIsW1siSkZLIiwiMjAyNi0xMC0xNSIsIkRPSCIsbnVsbCwiUVIiLCI3MDYiXSxbIkRPSCIsIjIwMjYtMTAtMTYiLCJCS0siLG51bGwsIlFSIiwiODM0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 11:20"
+          },
+          "arrival_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-10-16 06:40"
+          },
+          "duration": 740,
+          "airplane": "Boeing 777",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 704",
+          "ticket_also_sold_by": [
+            "American",
+            "Alaska"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 727 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-10-16 08:10"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 19:05"
+          },
+          "duration": 415,
+          "airplane": "Airbus A380",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 828",
+          "ticket_also_sold_by": [
+            "American",
+            "Alaska"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 430 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 90,
+          "name": "Hamad International Airport",
+          "id": "DOH"
+        }
+      ],
+      "total_duration": 1245,
+      "carbon_emissions": {
+        "this_flight": 1158000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": 1
+      },
+      "price": 945,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ3RSVWpjd05IeFJVamd5T0JvTENNM2hCUkFDR2dOVlUwUTRISERONFFVPSIsW1siSkZLIiwiMjAyNi0xMC0xNSIsIkRPSCIsbnVsbCwiUVIiLCI3MDQiXSxbIkRPSCIsIjIwMjYtMTAtMTYiLCJCS0siLG51bGwsIlFSIiwiODI4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 22:00"
+          },
+          "arrival_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-10-16 17:20"
+          },
+          "duration": 740,
+          "airplane": "Boeing 777",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 702",
+          "ticket_also_sold_by": [
+            "American"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 727 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-10-16 20:20"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-17 07:15"
+          },
+          "duration": 415,
+          "airplane": "Boeing 787",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 830",
+          "ticket_also_sold_by": [
+            "American"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 294 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 180,
+          "name": "Hamad International Airport",
+          "id": "DOH"
+        }
+      ],
+      "total_duration": 1335,
+      "carbon_emissions": {
+        "this_flight": 1022000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": -11
+      },
+      "price": 945,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ3RSVWpjd01ueFJVamd6TUJvTENNM2hCUkFDR2dOVlUwUTRISERONFFVPSIsW1siSkZLIiwiMjAyNi0xMC0xNSIsIkRPSCIsbnVsbCwiUVIiLCI3MDIiXSxbIkRPSCIsIjIwMjYtMTAtMTYiLCJCS0siLG51bGwsIlFSIiwiODMwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 22:00"
+          },
+          "arrival_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-10-16 17:20"
+          },
+          "duration": 740,
+          "airplane": "Boeing 777",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 702",
+          "ticket_also_sold_by": [
+            "American",
+            "Alaska"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 727 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Hamad International Airport",
+            "id": "DOH",
+            "time": "2026-10-16 19:25"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-17 06:20"
+          },
+          "duration": 415,
+          "airplane": "Boeing 787",
+          "airline": "Qatar Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+          "travel_class": "Economy",
+          "flight_number": "QR 838",
+          "ticket_also_sold_by": [
+            "American",
+            "Alaska"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 294 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 125,
+          "name": "Hamad International Airport",
+          "id": "DOH"
+        }
+      ],
+      "total_duration": 1280,
+      "carbon_emissions": {
+        "this_flight": 1022000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": -11
+      },
+      "price": 1089,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ3RSVWpjd01ueFJVamd6T0JvTENJM1NCaEFDR2dOVlUwUTRISENOMGdZPSIsW1siSkZLIiwiMjAyNi0xMC0xNSIsIkRPSCIsbnVsbCwiUVIiLCI3MDIiXSxbIkRPSCIsIjIwMjYtMTAtMTYiLCJCS0siLG51bGwsIlFSIiwiODM4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 15:45"
+          },
+          "arrival_airport": {
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2026-10-16 12:25"
+          },
+          "duration": 760,
+          "airplane": "Airbus A350",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+          "travel_class": "Economy",
+          "flight_number": "EY 2",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 624 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2026-10-16 14:15"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 23:50"
+          },
+          "duration": 395,
+          "airplane": "Boeing 787",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+          "travel_class": "Economy",
+          "flight_number": "EY 400",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 297 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 110,
+          "name": "Zayed International Airport",
+          "id": "AUH"
+        }
+      ],
+      "total_duration": 1265,
+      "carbon_emissions": {
+        "this_flight": 923000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": -20
+      },
+      "price": 1090,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ2xGV1RKOFJWazBNREFhQ3dpdDB3WVFBaG9EVlZORU9CeHdyZE1HIixbWyJKRksiLCIyMDI2LTEwLTE1IiwiQVVIIixudWxsLCJFWSIsIjIiXSxbIkFVSCIsIjIwMjYtMTAtMTYiLCJCS0siLG51bGwsIkVZIiwiNDAwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 22:20"
+          },
+          "arrival_airport": {
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2026-10-16 19:20"
+          },
+          "duration": 780,
+          "airplane": "Boeing 787",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+          "travel_class": "Economy",
+          "flight_number": "EY 4",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 700 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Zayed International Airport",
+            "id": "AUH",
+            "time": "2026-10-16 20:40"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-17 06:15"
+          },
+          "duration": 395,
+          "airplane": "Airbus A350",
+          "airline": "Etihad",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+          "travel_class": "Economy",
+          "flight_number": "EY 408",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 313 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 80,
+          "name": "Zayed International Airport",
+          "id": "AUH"
+        }
+      ],
+      "total_duration": 1255,
+      "carbon_emissions": {
+        "this_flight": 1014000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": -12
+      },
+      "price": 1115,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ2xGV1RSOFJWazBNRGdhQ3dqeDVnWVFBaG9EVlZORU9CeHc4ZVlHIixbWyJKRksiLCIyMDI2LTEwLTE1IiwiQVVIIixudWxsLCJFWSIsIjQiXSxbIkFVSCIsIjIwMjYtMTAtMTYiLCJCS0siLG51bGwsIkVZIiwiNDA4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 14:55"
+          },
+          "arrival_airport": {
+            "name": "Hong Kong International Airport",
+            "id": "HKG",
+            "time": "2026-10-16 19:05"
+          },
+          "duration": 970,
+          "airplane": "Boeing 777",
+          "airline": "Cathay Pacific",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+          "travel_class": "Economy",
+          "flight_number": "CX 831",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 993 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Hong Kong International Airport",
+            "id": "HKG",
+            "time": "2026-10-16 22:15"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-17 00:10"
+          },
+          "duration": 175,
+          "airplane": "Airbus A330",
+          "airline": "Cathay Pacific",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+          "travel_class": "Economy",
+          "flight_number": "CX 617",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 121 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 190,
+          "name": "Hong Kong International Airport",
+          "id": "HKG"
+        }
+      ],
+      "total_duration": 1335,
+      "carbon_emissions": {
+        "this_flight": 1115000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": -3
+      },
+      "price": 1206,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZzFEV0Rnek1YeERXRFl4TnlNeEdnc0k4NjBIRUFJYUExVlRSRGdjY1BPdEJ3PT0iLFtbIkpGSyIsIjIwMjYtMTAtMTUiLCJIS0ciLG51bGwsIkNYIiwiODMxIl0sWyJIS0ciLCIyMDI2LTEwLTE2IiwiQktLIixudWxsLCJDWCIsIjYxNyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 11:20"
+          },
+          "arrival_airport": {
+            "name": "Dubai International Airport",
+            "id": "DXB",
+            "time": "2026-10-16 07:55"
+          },
+          "duration": 755,
+          "airplane": "Airbus A380",
+          "airline": "Emirates",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EK.png",
+          "travel_class": "Economy",
+          "flight_number": "EK 204",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 961 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Dubai International Airport",
+            "id": "DXB",
+            "time": "2026-10-16 09:00"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 18:25"
+          },
+          "duration": 385,
+          "airplane": "Boeing 777",
+          "airline": "Emirates",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EK.png",
+          "travel_class": "Economy",
+          "flight_number": "EK 370",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 364 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 65,
+          "name": "Dubai International Airport",
+          "id": "DXB"
+        }
+      ],
+      "total_duration": 1205,
+      "carbon_emissions": {
+        "this_flight": 1326000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": 15
+      },
+      "price": 1213,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EK.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ3RGU3pJd05IeEZTek0zTUJvTENMbXpCeEFDR2dOVlUwUTRISEM1c3djPSIsW1siSkZLIiwiMjAyNi0xMC0xNSIsIkRYQiIsbnVsbCwiRUsiLCIyMDQiXSxbIkRYQiIsIjIwMjYtMTAtMTYiLCJCS0siLG51bGwsIkVLIiwiMzcwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 11:45"
+          },
+          "arrival_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2026-10-16 16:30"
+          },
+          "duration": 945,
+          "airplane": "Airbus A350",
+          "airline": "Asiana Airlines",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+          "travel_class": "Economy",
+          "flight_number": "OZ 221",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 871 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2026-10-16 19:35"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 23:20"
+          },
+          "duration": 345,
+          "airplane": "Airbus A350",
+          "airline": "Asiana Airlines",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+          "travel_class": "Economy",
+          "flight_number": "OZ 741",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 287 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 185,
+          "name": "Incheon International Airport",
+          "id": "ICN"
+        }
+      ],
+      "total_duration": 1475,
+      "carbon_emissions": {
+        "this_flight": 1159000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": 1
+      },
+      "price": 1266,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ3RQV2pJeU1YeFBXamMwTVJvTENPM2NCeEFDR2dOVlUwUTRISER0M0FjPSIsW1siSkZLIiwiMjAyNi0xMC0xNSIsIklDTiIsbnVsbCwiT1oiLCIyMjEiXSxbIklDTiIsIjIwMjYtMTAtMTYiLCJCS0siLG51bGwsIk9aIiwiNzQxIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 01:55"
+          },
+          "arrival_airport": {
+            "name": "Hong Kong International Airport",
+            "id": "HKG",
+            "time": "2026-10-16 05:30"
+          },
+          "duration": 935,
+          "airplane": "Airbus A350",
+          "airline": "Cathay Pacific",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+          "travel_class": "Economy",
+          "flight_number": "CX 843",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 874 kg"
+          ],
+          "overnight": true
+        },
+        {
+          "departure_airport": {
+            "name": "Hong Kong International Airport",
+            "id": "HKG",
+            "time": "2026-10-16 08:00"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 10:00"
+          },
+          "duration": 180,
+          "airplane": "Airbus A330",
+          "airline": "Cathay Pacific",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+          "travel_class": "Economy",
+          "flight_number": "CX 705",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 135 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 150,
+          "name": "Hong Kong International Airport",
+          "id": "HKG"
+        }
+      ],
+      "total_duration": 1265,
+      "carbon_emissions": {
+        "this_flight": 1010000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": -12
+      },
+      "price": 1281,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZzFEV0RnME0zeERXRGN3TlNNeEdnc0l2K2dIRUFJYUExVlRSRGdjY0wvb0J3PT0iLFtbIkpGSyIsIjIwMjYtMTAtMTUiLCJIS0ciLG51bGwsIkNYIiwiODQzIl0sWyJIS0ciLCIyMDI2LTEwLTE2IiwiQktLIixudWxsLCJDWCIsIjcwNSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 01:25"
+          },
+          "arrival_airport": {
+            "name": "Taiwan Taoyuan International Airport",
+            "id": "TPE",
+            "time": "2026-10-16 05:20"
+          },
+          "duration": 955,
+          "airplane": "Boeing 777",
+          "airline": "EVA Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BR.png",
+          "travel_class": "Economy",
+          "flight_number": "BR 31",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 1014 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Taiwan Taoyuan International Airport",
+            "id": "TPE",
+            "time": "2026-10-16 08:00"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 10:55"
+          },
+          "duration": 235,
+          "airplane": "Boeing 777",
+          "airline": "EVA Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BR.png",
+          "travel_class": "Economy",
+          "flight_number": "BR 67",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 220 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 160,
+          "name": "Taiwan Taoyuan International Airport",
+          "id": "TPE"
+        }
+      ],
+      "total_duration": 1350,
+      "carbon_emissions": {
+        "this_flight": 1235000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": 7
+      },
+      "price": 1440,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BR.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ2xDVWpNeGZFSlNOamNhQ3dqQTVBZ1FBaG9EVlZORU9CeHd3T1FJIixbWyJKRksiLCIyMDI2LTEwLTE1IiwiVFBFIixudWxsLCJCUiIsIjMxIl0sWyJUUEUiLCIyMDI2LTEwLTE2IiwiQktLIixudWxsLCJCUiIsIjY3Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "John F. Kennedy International Airport",
+            "id": "JFK",
+            "time": "2026-10-15 00:50"
+          },
+          "arrival_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2026-10-16 05:10"
+          },
+          "duration": 920,
+          "airplane": "Boeing 777",
+          "airline": "Korean Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+          "travel_class": "Economy",
+          "flight_number": "KE 86",
+          "ticket_also_sold_by": [
+            "Delta"
+          ],
+          "legroom": "33 in",
+          "extensions": [
+            "Above average legroom (33 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 989 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Incheon International Airport",
+            "id": "ICN",
+            "time": "2026-10-16 09:45"
+          },
+          "arrival_airport": {
+            "name": "Suvarnabhumi Airport",
+            "id": "BKK",
+            "time": "2026-10-16 13:35"
+          },
+          "duration": 350,
+          "airplane": "Airbus A330",
+          "airline": "Korean Air",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+          "travel_class": "Economy",
+          "flight_number": "KE 657",
+          "ticket_also_sold_by": [
+            "Delta"
+          ],
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 293 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 275,
+          "name": "Incheon International Airport",
+          "id": "ICN"
+        }
+      ],
+      "total_duration": 1545,
+      "carbon_emissions": {
+        "this_flight": 1283000,
+        "typical_for_this_route": 1151000,
+        "difference_percent": 11
+      },
+      "price": 1466,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+      "departure_token": "WyJDalJJZDJoQ1drTnBWM1UyZFc5QlFrRXhkRkZDUnkwdExTMHRkblJpWjIweU15MXVNVUZCUVVGQlIyNW5WR1ZWU2xaMmJsbEJFZ3BMUlRnMmZFdEZOalUzR2dzSWpma0lFQUlhQTFWVFJEZ2NjSTM1Q0E9PSIsW1siSkZLIiwiMjAyNi0xMC0xNSIsIklDTiIsbnVsbCwiS0UiLCI4NiJdLFsiSUNOIiwiMjAyNi0xMC0xNiIsIkJLSyIsbnVsbCwiS0UiLCI2NTciXV1d"
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 945,
+    "price_level": "typical",
+    "typical_price_range": [
+      830,
+      1050
+    ],
+    "price_history": [
+      [
+        1771045200,
+        862
+      ],
+      [
+        1771131600,
+        862
+      ],
+      [
+        1771218000,
+        862
+      ],
+      [
+        1771304400,
+        862
+      ],
+      [
+        1771390800,
+        862
+      ],
+      [
+        1771477200,
+        862
+      ],
+      [
+        1771563600,
+        862
+      ],
+      [
+        1771650000,
+        862
+      ],
+      [
+        1771736400,
+        862
+      ],
+      [
+        1771822800,
+        862
+      ],
+      [
+        1771909200,
+        862
+      ],
+      [
+        1771995600,
+        862
+      ],
+      [
+        1772082000,
+        862
+      ],
+      [
+        1772168400,
+        862
+      ],
+      [
+        1772254800,
+        863
+      ],
+      [
+        1772341200,
+        863
+      ],
+      [
+        1772427600,
+        863
+      ],
+      [
+        1772514000,
+        862
+      ],
+      [
+        1772600400,
+        869
+      ],
+      [
+        1772686800,
+        869
+      ],
+      [
+        1772773200,
+        869
+      ],
+      [
+        1772859600,
+        869
+      ],
+      [
+        1772946000,
+        869
+      ],
+      [
+        1773028800,
+        869
+      ],
+      [
+        1773115200,
+        868
+      ],
+      [
+        1773201600,
+        868
+      ],
+      [
+        1773288000,
+        880
+      ],
+      [
+        1773374400,
+        881
+      ],
+      [
+        1773460800,
+        880
+      ],
+      [
+        1773547200,
+        880
+      ],
+      [
+        1773633600,
+        880
+      ],
+      [
+        1773720000,
+        880
+      ],
+      [
+        1773806400,
+        880
+      ],
+      [
+        1773892800,
+        880
+      ],
+      [
+        1773979200,
+        880
+      ],
+      [
+        1774065600,
+        880
+      ],
+      [
+        1774152000,
+        880
+      ],
+      [
+        1774238400,
+        880
+      ],
+      [
+        1774324800,
+        880
+      ],
+      [
+        1774411200,
+        880
+      ],
+      [
+        1774497600,
+        880
+      ],
+      [
+        1774584000,
+        880
+      ],
+      [
+        1774670400,
+        880
+      ],
+      [
+        1774756800,
+        880
+      ],
+      [
+        1774843200,
+        880
+      ],
+      [
+        1774929600,
+        880
+      ],
+      [
+        1775016000,
+        880
+      ],
+      [
+        1775102400,
+        880
+      ],
+      [
+        1775188800,
+        880
+      ],
+      [
+        1775275200,
+        880
+      ],
+      [
+        1775361600,
+        880
+      ],
+      [
+        1775448000,
+        880
+      ],
+      [
+        1775534400,
+        944
+      ],
+      [
+        1775620800,
+        944
+      ],
+      [
+        1775707200,
+        944
+      ],
+      [
+        1775793600,
+        945
+      ],
+      [
+        1775880000,
+        945
+      ],
+      [
+        1775966400,
+        945
+      ],
+      [
+        1776052800,
+        945
+      ],
+      [
+        1776139200,
+        945
+      ],
+      [
+        1776225600,
+        945
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "JFK",
+            "name": "John F. Kennedy International Airport"
+          },
+          "city": "New York",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa1dwH1NZQk4dsbPiyA9Vrq2RX75jXSZ-OkHn7NkLHl-11HercqDXoZ4p2cDxJkH6vca2degawrCzHEQ",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEaUa9NsdPWGpAUGkTApkZDT_4M6_6V8wTcC0v1b1wJAJX-BuMSiipXbsoznGgcI1xLOc5QiTcR_xovexgjdOz0gqQe0tRQ9h0bUkZ07Q"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "BKK",
+            "name": "Suvarnabhumi Airport"
+          },
+          "city": "Bangkok",
+          "country": "Thailand",
+          "country_code": "TH",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzC4xB5QxGqhLwOS5u7E8q-Ty8lX8lihfxKD-L1VCamrWDhR52VWvoBnPWydRUr7FEKiKwHfAU0sB9mg",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-yAxs8ZWNi0M14W-4wO0ra1auEIiVtG0zy-C8CygMmIa2-MVy7L8vSTHNXJJnS_9lq_gL3BVaF6MQh6wBKzXzqexb7CZL29F6UQABXAY"
+        }
+      ]
+    },
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "BKK",
+            "name": "Suvarnabhumi Airport"
+          },
+          "city": "Bangkok",
+          "country": "Thailand",
+          "country_code": "TH",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzC4xB5QxGqhLwOS5u7E8q-Ty8lX8lihfxKD-L1VCamrWDhR52VWvoBnPWydRUr7FEKiKwHfAU0sB9mg",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-yAxs8ZWNi0M14W-4wO0ra1auEIiVtG0zy-C8CygMmIa2-MVy7L8vSTHNXJJnS_9lq_gL3BVaF6MQh6wBKzXzqexb7CZL29F6UQABXAY"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "JFK",
+            "name": "John F. Kennedy International Airport"
+          },
+          "city": "New York",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa1dwH1NZQk4dsbPiyA9Vrq2RX75jXSZ-OkHn7NkLHl-11HercqDXoZ4p2cDxJkH6vca2degawrCzHEQ",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEaUa9NsdPWGpAUGkTApkZDT_4M6_6V8wTcC0v1b1wJAJX-BuMSiipXbsoznGgcI1xLOc5QiTcR_xovexgjdOz0gqQe0tRQ9h0bUkZ07Q"
+        }
+      ]
+    }
+  ]
+}

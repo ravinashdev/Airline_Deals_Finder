@@ -20,6 +20,8 @@ class SerpClient:
                 self.base_url,
                 params=params
             )
+            google_search_response.raise_for_status()
+            # print(f"Status Code: {google_search_response.status_code}")
             return google_search_response.json()
         except Exception as e:
             print(e)
