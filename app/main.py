@@ -64,7 +64,7 @@ async def main():
 
     # -------------------------------Message Sender(Twillio)-------------------------------
     message = cleaned_google_response_data[0]
-    to="+13478579787"
+    to=settings.twillio.to_number
     twillio_response = twillio.send_text(message, to)
     print(twillio_response)
 # ---------------------------- UI SETUP ------------------------------- #

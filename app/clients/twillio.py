@@ -7,7 +7,7 @@ class Twillio:
     def __init__(self):
         self.sid = settings.TWILLIO_TEST_ACCOUNT_SID
         self.key = settings.TWILLIO_TEST_AUTH_TOKEN
-        self.from_="+18559411028"
+        self.from_=settings.twillio.from_number
         self.client = Client(self.sid, self.key)
     def send_text(self, body, to):
         try:
